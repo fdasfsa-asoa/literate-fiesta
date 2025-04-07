@@ -443,6 +443,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-02 15:30:00 +0000",
       "minecraft:taiga": "2025-04-02 15:58:53 +0000",
+      "minecraft:deep_ocean": "2025-04-07 20:33:45 +0000",
       "minecraft:eroded_badlands": "2025-04-03 23:08:12 +0000",
       "minecraft:sunflower_plains": "2025-04-01 22:36:44 +0000",
       "minecraft:windswept_hills": "2025-04-03 17:44:25 +0000",
@@ -465,6 +466,7 @@
       "minecraft:warm_ocean": "2025-04-03 23:06:46 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-02 15:32:55 +0000",
       "minecraft:flower_forest": "2025-04-05 04:00:16 +0000",
+      "minecraft:frozen_peaks": "2025-04-07 20:41:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-02 15:22:49 +0000",
       "minecraft:savanna": "2025-04-01 21:14:19 +0000",
       "minecraft:plains": "2025-04-01 22:36:13 +0000"
@@ -618,6 +620,7 @@
       "minecraft:vex": "2025-04-03 20:29:06 +0000",
       "minecraft:zombie": "2025-04-01 21:25:57 +0000",
       "quark:foxhound": "2025-04-02 19:33:54 +0000",
+      "minecraft:drowned": "2025-04-07 20:37:49 +0000",
       "minecraft:zombie_villager": "2025-04-02 03:04:52 +0000"
     },
     "done": false
@@ -719,6 +722,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-04-03 22:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-04-07 20:43:27 +0000"
     },
     "done": true
   },
