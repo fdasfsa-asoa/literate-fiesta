@@ -1,0 +1,738 @@
+{
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-04-05 04:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-03 22:13:27 +0000"
+    },
+    "done": true
+  },
+  "statues:creeper_statue": {
+    "criteria": {
+      "creeper_statue": "2025-04-05 14:06:21 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-04-03 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-04-03 20:09:56 +0000"
+    },
+    "done": true
+  },
+  "statues:sheep_statue": {
+    "criteria": {
+      "sheep_statue_white": "2025-04-01 21:22:58 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-04-03 23:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-02 19:22:30 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-04-04 00:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-04-03 23:16:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-03 20:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-04-02 19:34:31 +0000"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-04-01 22:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-04-02 03:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-02 20:06:45 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2025-04-02 14:13:04 +0000"
+    },
+    "done": true
+  },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2025-04-02 14:13:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2025-04-03 23:33:28 +0000"
+    },
+    "done": true
+  },
+  "beautify:candleabras": {
+    "criteria": {
+      "requirement": "2025-04-01 22:31:33 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-04-02 15:42:17 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-04-03 18:24:07 +0000"
+    },
+    "done": true
+  },
+  "statues:pillager_statue": {
+    "criteria": {
+      "pillager_statue": "2025-04-05 03:13:57 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-04-02 15:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-04-05 14:33:27 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-04-03 18:21:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-01 21:28:11 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "red": "2025-04-03 20:19:47 +0000",
+      "orange": "2025-04-03 20:19:36 +0000",
+      "white": "2025-04-02 13:59:58 +0000",
+      "black": "2025-04-02 13:59:46 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-02 16:04:04 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-05 04:03:28 +0000",
+      "in_better_spider_dungeon": "2025-04-03 22:58:16 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-05 04:03:28 +0000"
+    },
+    "done": true
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2025-04-01 21:22:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-04-02 15:51:05 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-04-04 00:07:05 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-04-05 03:34:03 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-04-03 18:07:04 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2025-04-02 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-04-02 13:10:35 +0000",
+      "cooked_beef": "2025-04-02 15:23:19 +0000",
+      "baked_potato": "2025-04-03 00:58:28 +0000",
+      "beef": "2025-04-05 16:37:47 +0000",
+      "spider_eye": "2025-04-03 02:16:25 +0000",
+      "potato": "2025-04-03 01:30:48 +0000",
+      "poisonous_potato": "2025-04-03 02:08:25 +0000",
+      "bread": "2025-04-01 21:22:19 +0000",
+      "golden_apple": "2025-04-03 23:31:39 +0000",
+      "rotten_flesh": "2025-04-03 17:05:46 +0000",
+      "golden_carrot": "2025-04-03 02:08:40 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-04-05 04:20:44 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_warped_fungussus": {
+    "criteria": {
+      "fungussus": "2025-04-03 22:20:56 +0000"
+    },
+    "done": true
+  },
+  "statues:zombie_statue": {
+    "criteria": {
+      "zombie_statue": "2025-04-01 22:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-01 21:45:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-04-02 15:59:05 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_skeletosaurus": {
+    "criteria": {
+      "skeletosaurus": "2025-04-03 18:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-04-05 16:03:30 +0000"
+    },
+    "done": true
+  },
+  "statues:player_statue": {
+    "criteria": {
+      "player_statue": "2025-04-02 19:11:26 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-04-02 19:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-01 21:16:22 +0000"
+    },
+    "done": true
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2025-04-01 21:16:33 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-04-04 18:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-04 19:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-02 14:01:26 +0000"
+    },
+    "done": true
+  },
+  "statues:root": {
+    "criteria": {
+      "core": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2025-04-01 21:16:33 +0000"
+    },
+    "done": true
+  },
+  "statues:baby_zombie_statue": {
+    "criteria": {
+      "baby_zombie_statue": "2025-04-07 19:38:28 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-05 03:24:02 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-01 21:25:57 +0000"
+    },
+    "done": true
+  },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2025-04-01 21:26:54 +0000"
+    },
+    "done": true
+  },
+  "statues:sheep_all_statue": {
+    "criteria": {
+      "sheep_statue_white": "2025-04-01 21:22:58 +0000"
+    },
+    "done": false
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-04-03 23:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-01 22:24:30 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-04-02 19:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-02 19:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-01 21:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-04-05 14:22:53 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-04-01 22:16:51 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2025-04-03 00:59:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-04-05 03:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-04-02 15:30:00 +0000",
+      "minecraft:taiga": "2025-04-02 15:58:53 +0000",
+      "minecraft:eroded_badlands": "2025-04-03 23:08:12 +0000",
+      "minecraft:sunflower_plains": "2025-04-01 22:36:44 +0000",
+      "minecraft:windswept_hills": "2025-04-03 17:44:25 +0000",
+      "minecraft:bamboo_jungle": "2025-04-02 15:36:00 +0000",
+      "minecraft:wooded_badlands": "2025-04-03 23:16:22 +0000",
+      "minecraft:badlands": "2025-04-03 23:08:58 +0000",
+      "minecraft:beach": "2025-04-01 22:38:14 +0000",
+      "minecraft:dark_forest": "2025-04-02 15:23:03 +0000",
+      "minecraft:sparse_jungle": "2025-04-02 15:32:03 +0000",
+      "minecraft:river": "2025-04-01 21:20:27 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-02 15:32:18 +0000",
+      "minecraft:stony_shore": "2025-04-01 21:17:07 +0000",
+      "minecraft:swamp": "2025-04-05 03:12:26 +0000",
+      "minecraft:cold_ocean": "2025-04-05 03:11:56 +0000",
+      "minecraft:forest": "2025-04-02 15:14:59 +0000",
+      "minecraft:lush_caves": "2025-04-05 04:05:03 +0000",
+      "minecraft:desert": "2025-04-03 22:47:59 +0000",
+      "minecraft:ocean": "2025-04-01 22:39:17 +0000",
+      "minecraft:windswept_savanna": "2025-04-05 03:59:42 +0000",
+      "minecraft:warm_ocean": "2025-04-03 23:06:46 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-02 15:32:55 +0000",
+      "minecraft:flower_forest": "2025-04-05 04:00:16 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-02 15:22:49 +0000",
+      "minecraft:savanna": "2025-04-01 21:14:19 +0000",
+      "minecraft:plains": "2025-04-01 22:36:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-01 21:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-02 13:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-01 21:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-04-02 20:02:56 +0000"
+    },
+    "done": true
+  },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2025-04-02 15:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-02 20:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-01 21:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-04-03 22:06:08 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-02 20:11:58 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2025-04-02 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-02 13:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-04-03 02:25:08 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/candelabra": {
+    "criteria": {
+      "obtain": "2025-04-02 14:13:25 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-04-05 03:18:15 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2025-04-02 16:18:00 +0000"
+    },
+    "done": true
+  },
+  "statues:enderman_statue": {
+    "criteria": {
+      "enderman_statue": "2025-04-03 22:22:51 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2025-04-03 17:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-04-04 19:01:24 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2025-04-02 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-04-02 15:34:00 +0000",
+      "minecraft:blaze": "2025-04-02 19:37:30 +0000",
+      "minecraft:skeleton": "2025-04-01 21:28:20 +0000",
+      "minecraft:ravager": "2025-04-03 20:26:43 +0000",
+      "minecraft:ghast": "2025-04-03 17:50:51 +0000",
+      "minecraft:vindicator": "2025-04-02 15:33:36 +0000",
+      "minecraft:magma_cube": "2025-04-03 17:51:23 +0000",
+      "minecraft:spider": "2025-04-01 21:44:21 +0000",
+      "minecraft:piglin_brute": "2025-04-02 20:12:49 +0000",
+      "minecraft:creeper": "2025-04-01 21:46:23 +0000",
+      "minecraft:slime": "2025-04-03 17:35:08 +0000",
+      "quark:forgotten": "2025-04-01 22:16:46 +0000",
+      "minecraft:zombified_piglin": "2025-04-02 19:57:29 +0000",
+      "minecraft:witch": "2025-04-02 15:21:43 +0000",
+      "minecraft:wither_skeleton": "2025-04-02 19:35:38 +0000",
+      "minecraft:husk": "2025-04-03 22:54:35 +0000",
+      "minecraft:cave_spider": "2025-04-04 19:03:55 +0000",
+      "quark:wraith": "2025-04-02 20:10:00 +0000",
+      "minecraft:piglin": "2025-04-02 20:13:51 +0000",
+      "minecraft:enderman": "2025-04-01 21:44:43 +0000",
+      "minecraft:stray": "2025-04-02 16:04:11 +0000",
+      "minecraft:silverfish": "2025-04-05 03:15:38 +0000",
+      "minecraft:vex": "2025-04-03 20:29:06 +0000",
+      "minecraft:zombie": "2025-04-01 21:25:57 +0000",
+      "quark:foxhound": "2025-04-02 19:33:54 +0000",
+      "minecraft:zombie_villager": "2025-04-02 03:04:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-04-02 03:29:36 +0000"
+    },
+    "done": true
+  },
+  "statues:statue_table": {
+    "criteria": {
+      "statue_table": "2025-04-02 19:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-02 19:22:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-02 14:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-02 02:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:persian": "2025-04-02 03:31:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-02 20:17:35 +0000",
+      "minecraft:nether_wastes": "2025-04-02 19:22:31 +0000",
+      "minecraft:soul_sand_valley": "2025-04-02 20:09:11 +0000",
+      "minecraft:basalt_deltas": "2025-04-02 19:34:20 +0000",
+      "minecraft:warped_forest": "2025-04-02 19:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-03 17:43:10 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-04-02 16:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-01 21:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-01 21:17:33 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-04-03 18:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-01 21:26:54 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-03 22:58:16 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2025-04-01 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-02 03:31:57 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
