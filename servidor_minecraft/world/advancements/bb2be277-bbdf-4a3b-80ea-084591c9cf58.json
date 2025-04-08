@@ -367,6 +367,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-04-08 01:01:08 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-04-01 21:14:19 +0000"
@@ -563,9 +569,21 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-04-08 00:56:45 +0000"
+    },
+    "done": true
+  },
   "beautify:progression/candelabra": {
     "criteria": {
       "obtain": "2025-04-02 14:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-04-08 00:55:59 +0000"
     },
     "done": true
   },
@@ -623,6 +641,7 @@
       "minecraft:witch": "2025-04-02 15:21:43 +0000",
       "minecraft:wither_skeleton": "2025-04-02 19:35:38 +0000",
       "minecraft:husk": "2025-04-03 22:54:35 +0000",
+      "minecraft:ender_dragon": "2025-04-08 00:55:59 +0000",
       "minecraft:cave_spider": "2025-04-04 19:03:55 +0000",
       "quark:wraith": "2025-04-02 20:10:00 +0000",
       "minecraft:piglin": "2025-04-02 20:13:51 +0000",

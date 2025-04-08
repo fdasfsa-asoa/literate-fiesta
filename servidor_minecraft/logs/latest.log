@@ -967,3 +967,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Apr2025 00:55:59.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Free the End]
 [08Apr2025 00:56:09.007] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=62, z=0}
 [08Apr2025 00:56:45.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has reached the goal [The Next Generation]
+[08Apr2025 00:58:28.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ fell from a high place
+[08Apr2025 00:58:38.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -390.638328972434,44.37870315946081,-1945.4512873638087
+[08Apr2025 00:58:45.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 87.500000, 40.500000, 31.500000]
+[08Apr2025 00:58:56.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[08Apr2025 00:59:06.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[08Apr2025 00:59:44.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[08Apr2025 01:00:07.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[08Apr2025 01:01:08.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Remote Getaway]
+[08Apr2025 01:02:39.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[08Apr2025 01:03:18.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[08Apr2025 01:05:00.855] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 7c35026e: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[08Apr2025 01:05:00.932] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 7c35026e: RandomSpreadSearchWorker succeeded with 933 radius, 11 samples
+[08Apr2025 01:05:09.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ was kicked for floating too long!
+[08Apr2025 01:05:09.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Flying is not enabled on this server
+[08Apr2025 01:05:09.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[08Apr2025 01:05:09.605] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Apr2025 01:05:15.604] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Flancito0_ is bb2be277-bbdf-4a3b-80ea-084591c9cf58
+[08Apr2025 01:05:18.667] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c3507aa
+[08Apr2025 01:05:18.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:47675] logged in with entity id 3829 at (1188.7910575442525, 62.0, 462.26208183394374)
+[08Apr2025 01:05:18.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[08Apr2025 01:05:18.688] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (bb2be277-bbdf-4a3b-80ea-084591c9cf58)
+[08Apr2025 01:05:35.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [The Chorus Infection]
+[08Apr2025 01:06:45.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[08Apr2025 01:07:08.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[08Apr2025 01:07:30.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[08Apr2025 01:07:41.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[08Apr2025 01:07:54.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [The City at the End of the Game]
