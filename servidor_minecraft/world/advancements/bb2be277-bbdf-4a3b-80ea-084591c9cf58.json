@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-08 01:12:38 +0000"
+    },
+    "done": true
+  },
   "beautify:progression/hanging_pot": {
     "criteria": {
       "obtain": "2025-04-02 14:13:04 +0000"
@@ -265,6 +271,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_chorusling": {
+    "criteria": {
+      "chorusling": "2025-04-08 01:05:35 +0000"
+    },
+    "done": true
+  },
   "statues:zombie_statue": {
     "criteria": {
       "zombie_statue": "2025-04-01 22:32:14 +0000"
@@ -334,6 +346,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-04-02 14:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-08 01:07:54 +0000"
     },
     "done": true
   },
@@ -457,6 +475,7 @@
       "minecraft:taiga": "2025-04-02 15:58:53 +0000",
       "minecraft:deep_ocean": "2025-04-07 20:33:45 +0000",
       "minecraft:eroded_badlands": "2025-04-03 23:08:12 +0000",
+      "minecraft:frozen_river": "2025-04-08 16:50:41 +0000",
       "minecraft:sunflower_plains": "2025-04-01 22:36:44 +0000",
       "minecraft:windswept_hills": "2025-04-03 17:44:25 +0000",
       "minecraft:bamboo_jungle": "2025-04-02 15:36:00 +0000",
@@ -468,10 +487,12 @@
       "minecraft:river": "2025-04-01 21:20:27 +0000",
       "minecraft:lukewarm_ocean": "2025-04-02 15:32:18 +0000",
       "minecraft:stony_shore": "2025-04-01 21:17:07 +0000",
+      "minecraft:snowy_taiga": "2025-04-08 16:50:42 +0000",
       "minecraft:swamp": "2025-04-05 03:12:26 +0000",
       "minecraft:cold_ocean": "2025-04-05 03:11:56 +0000",
       "minecraft:forest": "2025-04-02 15:14:59 +0000",
       "minecraft:lush_caves": "2025-04-05 04:05:03 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-08 01:17:08 +0000",
       "minecraft:desert": "2025-04-03 22:47:59 +0000",
       "minecraft:ocean": "2025-04-01 22:39:17 +0000",
       "minecraft:windswept_savanna": "2025-04-05 03:59:42 +0000",
@@ -642,6 +663,7 @@
       "minecraft:wither_skeleton": "2025-04-02 19:35:38 +0000",
       "minecraft:husk": "2025-04-03 22:54:35 +0000",
       "minecraft:ender_dragon": "2025-04-08 00:55:59 +0000",
+      "minecraft:shulker": "2025-04-08 01:07:58 +0000",
       "minecraft:cave_spider": "2025-04-04 19:03:55 +0000",
       "quark:wraith": "2025-04-02 20:10:00 +0000",
       "minecraft:piglin": "2025-04-02 20:13:51 +0000",
