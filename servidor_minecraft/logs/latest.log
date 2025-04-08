@@ -983,3 +983,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Apr2025 18:06:30.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 282.500000, 32.500000, 132.500000]
 [08Apr2025 18:06:42.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
 [08Apr2025 18:07:04.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set 70 experience levels on Flancito0_]
+[08Apr2025 18:10:45.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[08Apr2025 18:11:00.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! 8.424898866013336,2.599490767332881,-5.1744753884721035
+[08Apr2025 18:11:30.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[08Apr2025 18:12:42.185] [Thread-0/INFO] [com.hamusuke.fallingattack.config.json.JsonConfig/]: Config file fallingattack-usable-items.json changed, reloading
+[08Apr2025 18:12:42.185] [Thread-0/INFO] [com.hamusuke.fallingattack.config.json.JsonConfig/]: Config file fallingattack-usable-items.json changed, reloading
+[08Apr2025 18:13:00.576] [Thread-0/INFO] [com.hamusuke.fallingattack.config.json.JsonConfig/]: Config file fallingattack-usable-items.json changed, reloading
+[08Apr2025 18:13:54.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[08Apr2025 18:14:09.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[08Apr2025 18:14:58.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[08Apr2025 18:15:04.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[08Apr2025 18:16:12.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[08Apr2025 18:16:29.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[08Apr2025 18:17:09.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[08Apr2025 18:17:19.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[08Apr2025 18:17:21.776] [Thread-0/INFO] [com.hamusuke.fallingattack.config.json.JsonConfig/]: Config file fallingattack-usable-items.json changed, reloading
+[08Apr2025 18:17:21.776] [Thread-0/INFO] [com.hamusuke.fallingattack.config.json.JsonConfig/]: Config file fallingattack-usable-items.json changed, reloading
