@@ -961,3 +961,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Apr2025 16:51:34.799] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (bb2be277-bbdf-4a3b-80ea-084591c9cf58)
 [08Apr2025 16:51:49.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ fell out of the world
 [08Apr2025 16:51:49.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Killed Flancito0_]
+[08Apr2025 17:01:50.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Gamerule keepInventory is now set to: false]
+[08Apr2025 17:01:56.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[08Apr2025 17:02:07.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[08Apr2025 17:02:11.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
+[08Apr2025 17:02:23.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
