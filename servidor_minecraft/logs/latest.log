@@ -972,3 +972,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Apr2025 17:17:04.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 296.500000, 129.500000, -67.500000]
 [08Apr2025 17:17:12.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Spectator Mode]
 [08Apr2025 17:17:29.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[08Apr2025 17:58:30.286] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 740837b3: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[08Apr2025 17:58:32.081] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 740837b3: RandomSpreadSearchWorker failed with 10318 radius, 82 samples
+[08Apr2025 18:01:34.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ experienced kinetic energy
+[08Apr2025 18:01:56.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 249.500000, 80.500000, 92.500000]
+[08Apr2025 18:05:40.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ experienced kinetic energy
+[08Apr2025 18:06:01.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 282.500000, 56.500000, 132.500000]
+[08Apr2025 18:06:02.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ fell from a high place
+[08Apr2025 18:06:27.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Creative Mode]
+[08Apr2025 18:06:30.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Teleported Flancito0_ to 282.500000, 32.500000, 132.500000]
+[08Apr2025 18:06:42.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set own game mode to Survival Mode]
+[08Apr2025 18:07:04.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Flancito0_: Set 70 experience levels on Flancito0_]
