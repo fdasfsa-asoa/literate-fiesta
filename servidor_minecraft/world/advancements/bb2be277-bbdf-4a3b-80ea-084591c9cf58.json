@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "statues:ravager_statue": {
+    "criteria": {
+      "ravager_statue": "2025-04-11 23:28:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-04-03 22:13:27 +0000"
